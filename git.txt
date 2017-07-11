@@ -1,2 +1,3 @@
 
-workshop on Git
+workshop of Git
+   Hello this is the workshop on Git initial first edit
